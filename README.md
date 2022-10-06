@@ -1,9 +1,9 @@
 Qwiic MultiPort
 ========================================
 
-[![SparkFun Qwiic MultiPort](<<IMG LINK>>)](https://sparkle.sparkfun.com/sparkle/storefront_products/20632)
+[![SparkFun Qwiic MultiStar](https://cdn.sparkfun.com//assets/parts/2/0/9/9/3/21224_KIT-_03.jpg)](https://www.sparkfun.com/products/21224)
 
-[*SparkFun Qwiic MultiStar (BOB-20632)*](https://www.sparkfun.com/products/20632)
+[*SparkFun Qwiic MultiStar (KIT-21224)*](https://www.sparkfun.com/products/21224)
 
 Qwiic is a very efficient way to quickly prototype an idea but not all Qwiic-enabled devices have two ports. The SparkFun Qwiic MultiPort adds additional ports to boards that have only one Qwiic port on the I2C bus. Once added, you can use it as a hub to add as many I2C devices to the bus as you need! Included are mounting holes so that the board can be secured to any system.
 
@@ -19,7 +19,7 @@ Documentation
 
 Product Versions
 ----------------
-* [BOB-20632](https://www.sparkfun.com/products/20632) - Initial Release
+* [KIT-21224](https://www.sparkfun.com/products/21224) - Initial Release
 
 License Information
 -------------------
