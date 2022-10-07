@@ -1,4 +1,4 @@
-Qwiic MultiStar
+Qwiic MultiStar Board Promo Constellation
 ========================================
 
 [![SparkFun Qwiic MultiStar](https://cdn.sparkfun.com//assets/parts/2/0/9/9/3/21224_KIT-_03.jpg)](https://www.sparkfun.com/products/21224)
@@ -11,7 +11,7 @@ Repository Contents
 -------------------
 
 * **/Hardware** - Eagle design files (.brd, .sch)
-* **/Production** - Production panel files (.brd)
+  * **/Production** - Production panel files (.brd)
 
 Documentation
 --------------
